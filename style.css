@@ -1,0 +1,14 @@
+.p1{
+  color: red;
+}
+p{
+ color: grey;
+}
+.p2{
+  color:gold;
+  background-color:yellow;
+}
+ul>li>a{
+  color: green;
+}
+
